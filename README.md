@@ -1,4 +1,3 @@
-#Connect-Four
 This is the *Connect-Four* project I made myself.
 
 
