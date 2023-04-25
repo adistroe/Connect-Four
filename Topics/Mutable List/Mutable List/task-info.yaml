@@ -1,0 +1,21 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun names(namesList: List<String>): List<String> {
+        var count = 0
+        val nameCount = mutableListOf<String>()
+        //
+        // add your code here
+        //
+        return nameCount
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/23009#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 24 Apr 2023 11:47:45 UTC"
+record: -1
+submission_language: kotlin

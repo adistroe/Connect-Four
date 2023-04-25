@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Debugging_techniques-What_you_know_about_a_debugger" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Debugging techniques/What you know about a debugger" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Connect Four" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Debugging techniques/What you know about a debugger">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Debugging techniques/What you know about a debugger/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Debugging techniques/What you know about a debugger/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Debugging techniques/What you know about a debugger/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
